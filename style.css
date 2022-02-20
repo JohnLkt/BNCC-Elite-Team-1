@@ -1,0 +1,23 @@
+div {
+    background-color: grey;
+    padding: 0.5em;
+}
+.addBtn {
+    background-color: beige;
+    padding: 0.25em;
+}
+li {
+    background-color: beige;
+    padding: 0.25em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+.close {
+    padding: 0.25em;
+    background-color:red;
+}
